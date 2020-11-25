@@ -1,0 +1,23 @@
+{
+  "name": "Oriki-Landing-Page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdoriAtiri/Cake-Landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdoriAtiri/Cake-Landing/issues"
+  },
+  "homepage": "https://github.com/EdoriAtiri/Cake-Landing#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
